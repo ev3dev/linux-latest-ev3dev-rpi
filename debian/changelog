@@ -1,3 +1,9 @@
+linux-latest-ev3dev-rpi (18) testing; urgency=medium
+
+  * Fix broken depends because of typo
+
+ -- David Lechner <david@lechnology.com>  Tue, 28 Mar 2017 18:01:32 -0500
+
 linux-latest-ev3dev-rpi (17) testing; urgency=medium
 
   * Target stretch
