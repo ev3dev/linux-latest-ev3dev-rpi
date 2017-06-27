@@ -1,3 +1,11 @@
+linux-latest-ev3dev-rpi (20) testing; urgency=medium
+
+  * Update compat and standards version
+  * Fix some lintian warnings
+  * Kernel 4.9.34-ev3dev-1.2.0-rpi
+
+ -- David Lechner <david@lechnology.com>  Mon, 26 Jun 2017 21:42:46 -0500
+
 linux-latest-ev3dev-rpi (19) testing; urgency=medium
 
   * Kernel 4.9.22-ev3dev-1.1.0-rpi
