@@ -1,3 +1,9 @@
+linux-latest-ev3dev-rpi (21) testing; urgency=medium
+
+  * Kernel 4.9.39-ev3dev-1.3.0-rpi
+
+ -- David Lechner <david@lechnology.com>  Tue, 25 Jul 2017 15:47:16 -0500
+
 linux-latest-ev3dev-rpi (20) testing; urgency=medium
 
   * Update compat and standards version
